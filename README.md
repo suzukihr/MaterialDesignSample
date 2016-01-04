@@ -4,7 +4,10 @@
 
 https://www.google.com/design/spec/components/subheaders.html#
 
-<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3YjJGcHFEMEdGdnM/style_imagery_integration_text3.png" width="400px">
+
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQXMyemJSQVhMem8/components_subheaders2.png" width="400px">
+
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsNTJaelA2bmpUSzQ/components_subheaders8.png" width="400px">
 
 ## DetailView
 
